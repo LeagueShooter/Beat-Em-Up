@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 8476a2ca54439f04db0f683be73833f1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 30 m
+    100002: 30 M2
+    100004: 50M
+    100006: 50M2
+    100008: 70M
+    100010: 70M2
+    100012: Banner
+    100014: Banner001
+    100016: Box B
+    100018: Box C
+    100020: Box D
+    100022: Bridge
+    100024: cantener
+    100026: //RootNode
+    100028: ground
+    100030: RegularFlag
+    100032: sky box
+    100034: Target new
+    100036: Tire
+    100038: Tire 10
+    100040: Tire 2
+    100042: TriplePointedBanner
+    100044: TriplePointedBanner003
+    100046: wall
+    100048: Water tank
+    100050: Water tanki
+    100052: Wire roll 1
+    100054: woodpiece016
+    100056: woodpiece017
+    100058: woodpiece15
+    400000: 30 m
+    400002: 30 M2
+    400004: 50M
+    400006: 50M2
+    400008: 70M
+    400010: 70M2
+    400012: Banner
+    400014: Banner001
+    400016: Box B
+    400018: Box C
+    400020: Box D
+    400022: Bridge
+    400024: cantener
+    400026: //RootNode
+    400028: ground
+    400030: RegularFlag
+    400032: sky box
+    400034: Target new
+    400036: Tire
+    400038: Tire 10
+    400040: Tire 2
+    400042: TriplePointedBanner
+    400044: TriplePointedBanner003
+    400046: wall
+    400048: Water tank
+    400050: Water tanki
+    400052: Wire roll 1
+    400054: woodpiece016
+    400056: woodpiece017
+    400058: woodpiece15
+    2100000: 'Material #37'
+    2100002: 'Material #35'
+    2100004: 'Material #27'
+    2100006: 'Material #70'
+    2100008: 'Material #26'
+    2100010: 'Material #36'
+    2100012: 'Material #43'
+    2100014: 'Material #58'
+    2300000: 30 m
+    2300002: 30 M2
+    2300004: 50M
+    2300006: 50M2
+    2300008: 70M
+    2300010: 70M2
+    2300012: Banner
+    2300014: Banner001
+    2300016: Box B
+    2300018: Box C
+    2300020: Box D
+    2300022: Bridge
+    2300024: cantener
+    2300026: ground
+    2300028: RegularFlag
+    2300030: sky box
+    2300032: Target new
+    2300034: Tire
+    2300036: Tire 10
+    2300038: Tire 2
+    2300040: TriplePointedBanner
+    2300042: TriplePointedBanner003
+    2300044: wall
+    2300046: Water tank
+    2300048: Water tanki
+    2300050: Wire roll 1
+    2300052: woodpiece016
+    2300054: woodpiece017
+    2300056: woodpiece15
+    3300000: 30 m
+    3300002: 30 M2
+    3300004: 50M
+    3300006: 50M2
+    3300008: 70M
+    3300010: 70M2
+    3300012: Banner
+    3300014: Banner001
+    3300016: Box B
+    3300018: Box C
+    3300020: Box D
+    3300022: Bridge
+    3300024: cantener
+    3300026: ground
+    3300028: RegularFlag
+    3300030: sky box
+    3300032: Target new
+    3300034: Tire
+    3300036: Tire 10
+    3300038: Tire 2
+    3300040: TriplePointedBanner
+    3300042: TriplePointedBanner003
+    3300044: wall
+    3300046: Water tank
+    3300048: Water tanki
+    3300050: Wire roll 1
+    3300052: woodpiece016
+    3300054: woodpiece017
+    3300056: woodpiece15
+    4300000: ground
+    4300002: sky box
+    4300004: Tire
+    4300006: Tire 2
+    4300008: Tire 10
+    4300010: Wire roll 1
+    4300012: Target new
+    4300014: Banner
+    4300016: RegularFlag
+    4300018: TriplePointedBanner
+    4300020: woodpiece15
+    4300022: 30 m
+    4300024: 30 M2
+    4300026: 50M
+    4300028: 50M2
+    4300030: 70M
+    4300032: 70M2
+    4300034: cantener
+    4300036: wall
+    4300038: Bridge
+    4300040: Banner001
+    4300042: Box D
+    4300044: Box C
+    4300046: Box B
+    4300048: Water tanki
+    4300050: Water tank
+    4300052: TriplePointedBanner003
+    4300054: woodpiece016
+    4300056: woodpiece017
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 7ab49722698c92d478b37833f5207e2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: 4489ebe16377a9942bf0d1f423bd84dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #35'
+    second: {fileID: 2100000, guid: f3717aee57087ad469426ec09a50d884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #36'
+    second: {fileID: 2100000, guid: 2cd061feef5db1d44a6c22e782b7626c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #37'
+    second: {fileID: 2100000, guid: 5a8c8bca993898b4cac5bcdc29c29125, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #43'
+    second: {fileID: 2100000, guid: 2ad23c83b8c9e454bb8b909dc219a27a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #58'
+    second: {fileID: 2100000, guid: a377ee7662ef0e44e9e497694559500e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #70'
+    second: {fileID: 2100000, guid: d590f947014ffbc408a915a633083b22, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

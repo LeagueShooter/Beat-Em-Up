@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 21ebdfc79bc3528458e6871d8e8b30f0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 30 m
+    100002: 30 M2
+    100004: 50M
+    100006: 50M2
+    100008: 70M
+    100010: 70M2
+    100012: Bridge
+    100014: cantener
+    100016: ground
+    100018: RegularFlag
+    100020: Target new
+    100022: TriplePointedBanner
+    100024: //RootNode
+    100026: wall
+    100028: Water tank
+    100030: Water tanki
+    100032: woodpiece016
+    400000: 30 m
+    400002: 30 M2
+    400004: 50M
+    400006: 50M2
+    400008: 70M
+    400010: 70M2
+    400012: Bridge
+    400014: cantener
+    400016: ground
+    400018: RegularFlag
+    400020: Target new
+    400022: TriplePointedBanner
+    400024: //RootNode
+    400026: wall
+    400028: Water tank
+    400030: Water tanki
+    400032: woodpiece016
+    2100000: 'Material #37'
+    2100002: 'Material #70'
+    2100004: 'Material #27'
+    2100006: 'Material #36'
+    2100008: 'Material #43'
+    2100010: 'Material #58'
+    2100012: 'Material #26'
+    2300000: 30 m
+    2300002: 30 M2
+    2300004: 50M
+    2300006: 50M2
+    2300008: 70M
+    2300010: 70M2
+    2300012: Bridge
+    2300014: cantener
+    2300016: ground
+    2300018: RegularFlag
+    2300020: Target new
+    2300022: TriplePointedBanner
+    2300024: wall
+    2300026: Water tank
+    2300028: Water tanki
+    2300030: woodpiece016
+    3300000: 30 m
+    3300002: 30 M2
+    3300004: 50M
+    3300006: 50M2
+    3300008: 70M
+    3300010: 70M2
+    3300012: Bridge
+    3300014: cantener
+    3300016: ground
+    3300018: RegularFlag
+    3300020: Target new
+    3300022: TriplePointedBanner
+    3300024: wall
+    3300026: Water tank
+    3300028: Water tanki
+    3300030: woodpiece016
+    4300000: ground
+    4300002: Target new
+    4300004: RegularFlag
+    4300006: TriplePointedBanner
+    4300008: 30 m
+    4300010: 30 M2
+    4300012: 50M
+    4300014: 50M2
+    4300016: 70M
+    4300018: 70M2
+    4300020: cantener
+    4300022: Bridge
+    4300024: Water tanki
+    4300026: Water tank
+    4300028: woodpiece016
+    4300030: wall
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
