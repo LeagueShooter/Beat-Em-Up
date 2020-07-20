@@ -16,4 +16,9 @@ public class GameManager : MonoBehaviour
     {
         
     }
+
+    void mango()
+    {
+        print("ABcdefghijklmnopqrstuvwxy and z now i know my abc");
+    }
 }
