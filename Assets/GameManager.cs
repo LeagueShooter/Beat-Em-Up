@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    public GameObject abc;
     // Start is called before the first frame update
     void Start()
     {
@@ -15,10 +14,5 @@ public class GameManager : MonoBehaviour
     void Update()
     {
         
-    }
-
-    void mango()
-    {
-        print("ABcdefghijklmnopqrstuvwxy and z now i know my abc");
     }
 }
