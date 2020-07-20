@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 498}
   m_MaxSize: {x: 18008, y: 14048}
   vertical: 0
-  controlID: 108
+  controlID: 33
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 448}
   m_MaxSize: {x: 4002, y: 8048}
   vertical: 1
-  controlID: 109
+  controlID: 34
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -582,8 +582,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 84340000
-      m_LastClickedID: 13444
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: d8fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -646,20 +646,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Git Test Prefeb
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/Git Test Prefeb
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\Spartan Global\Desktop\BeatEmUp
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c8280000
-    m_LastClickedID: 10440
-    m_ExpandedIDs: 00000000c8280000a2290000782a0000de2a0000da2b0000902c00004a2e0000b232000038330000d6340000d8340000da340000dc340000de340000e0340000e2340000e434000000ca9a3b
+    m_SelectedIDs: f6340000
+    m_LastClickedID: 13558
+    m_ExpandedIDs: 00000000ca280000a42900007a2a0000e02a0000dc2b0000922c00004c2e0000b43200003a330000d6340000d8340000da340000dc340000de340000e0340000e2340000e434000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -687,7 +687,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c8280000a2290000782a0000de2a0000da2b0000902c00004a2e0000b232000038330000d6340000d8340000da340000dc340000de340000e0340000e2340000e4340000
+    m_ExpandedIDs: 00000000ca280000a42900007a2a0000e02a0000dc2b0000922c00004c2e0000b43200003a330000d6340000d8340000da340000dc340000de340000e0340000e2340000e4340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -718,18 +718,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: de680000fa6e000094440000028a040080680000644000009453000068400000006d000032ad0400e0650000e66400002c0b0300ba50000038060200be670300c43a000078720000c23a0000807200009e35000070460000242b0000342d0000e62d000000000000be350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Git Test Prefeb
+      m_OriginalName: Git Test Prefeb
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 13558
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 11}
     m_CreateAssetUtility:
@@ -739,7 +739,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 78}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 16
   m_DirectoriesAreaWidth: 218
 --- !u!114 &19
